@@ -25,3 +25,18 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+.DS_Store
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+.*.sw[a-z]
+*.un~
+Session.vim

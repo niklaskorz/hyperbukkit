@@ -1,4 +1,4 @@
-hyperbukkit
+HyperBukkit
 ===========
 
 HTTP for Bukkit

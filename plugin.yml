@@ -1,6 +1,6 @@
 name: HyperBukkit
 description: HTTP for Bukkit
 version: 0.1
-authors: [dindresto] Niklas Korz <niklas@niklaskorz.de>
+author: Niklas Korz <niklas@niklaskorz.de>
 website: https://github.com/dindresto/hyperbukkit
 main: hyperbukkit.py

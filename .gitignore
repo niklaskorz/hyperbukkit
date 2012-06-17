@@ -1,3 +1,7 @@
+##
+bottle.py
+##
+
 *.py[co]
 
 # Packages
@@ -40,3 +44,11 @@ pip-log.txt
 .*.sw[a-z]
 *.un~
 Session.vim
+
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
